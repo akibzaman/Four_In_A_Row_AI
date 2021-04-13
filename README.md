@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/55422467/114603808-fa784180-9cb9-11eb-8f61-e327a861d38a.png)
 
 # Introduction
-The Problem has been solved using Python Language with the comprehensive implementation of Min-Max Alpha-Beta Pruning Algorithm. The Depth of the search for the algorithm has been customized for quicker but less accurate response from AI Agent. Main Functions have been highlighted as below:
+The problem has been solved using Python Language with the comprehensive implementation of Min-Max Alpha-Beta Pruning Algorithm. The Depth of the search for the algorithm has been customized for a quicker but less accurate response from an AI agent.. Main Functions have been highlighted as below:
 1.	Priority for Winning/ Blocking the Opponents
 2.	Min Max Algorithm
 3.	Winning Combinations
